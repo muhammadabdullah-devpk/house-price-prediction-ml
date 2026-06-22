@@ -36,13 +36,6 @@ The project follows a complete ML pipeline:
 - Scikit-learn
 - Jupyter Notebook
 
-## 📁 Project Structure
-house-price-prediction-ml/
-│
-├── House Price Prediction.ipynb
-├── task6_house_price_dataset.xlsx
-└── README.md
-
 ## 🚀 How to Run
 Clone the repository and run the notebook:
 
